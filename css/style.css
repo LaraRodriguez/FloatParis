@@ -1,3 +1,33 @@
 body{
     background-color: blanchedalmond;
+    
+    
+}
+div{
+  border-color: none none none chocolate;
+  border-width: none none none 2px;   
+  border-style: none none none solid;
+}
+h1{
+    font-family: sans-serif;
+}
+h3{
+    font-family: sans-serif;
+    font-size: small;
+}
+p{
+    font-size: smaller;
+}
+#Paris{
+    font-family: sans-serif;
+    
+}
+#Notre-dame{
+    font-family: sans-serif;
+}
+#Louvre{
+    font-family: sans-serif;
+}
+#Eiffel{
+    font-family: sans-serif;
 }

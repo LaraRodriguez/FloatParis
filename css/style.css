@@ -4,6 +4,7 @@ body{
     
 }
 div{
+
   border-color: none none none chocolate;
   border-width: none none none 2px;   
   border-style: none none none solid;
@@ -19,30 +20,46 @@ p{
     font-size: smaller;
 }
 #Paris{
+    float: hidden;
     font-family: sans-serif;
-    border-color: none none none chocolate;
-    border-width: none none none 2px;   
-    border-style: none none none solid;
+    border-color: none none chocolate none;
+    border-width: none none 100px none;   
+    border-style: none none solid none;
 }
 }
 #Notre-dame{
 
     font-family: sans-serif;
-    border-color: none none none chocolate;
-    border-width: none none none 2px;   
-    border-style: none none none solid;
+    border-color: none none chocolate none;
+    border-width: none none 100px none;   
+    border-style: none none solid none;
 }
 }
 #Louvre{
     font-family: sans-serif;
-    border-color: none none none chocolate;
-    border-width: none none none 2px;   
-    border-style: none none none solid;
+    border-color: none none chocolate none;
+    border-width: none none 100px none;   
+    border-style: none none solid none;
 }
 }
 #Eiffel{
     font-family: sans-serif;
     border-color: none none chocolate none ;
-    border-width: none none none 2px;   
-    border-style: none none none solid;
+    border-width: none none 100px none;   
+    border-style: none none solid none;
+}
+#img1{
+    float: left;
+}
+#img2{
+    float: right;
+}
+#img3{
+    float: left;
+}
+#img4{
+    float: right;
+}
+#img5{
+    float: left;
 }

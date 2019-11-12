@@ -20,14 +20,29 @@ p{
 }
 #Paris{
     font-family: sans-serif;
-    
+    border-color: none none none chocolate;
+    border-width: none none none 2px;   
+    border-style: none none none solid;
+}
 }
 #Notre-dame{
+
     font-family: sans-serif;
+    border-color: none none none chocolate;
+    border-width: none none none 2px;   
+    border-style: none none none solid;
+}
 }
 #Louvre{
     font-family: sans-serif;
+    border-color: none none none chocolate;
+    border-width: none none none 2px;   
+    border-style: none none none solid;
+}
 }
 #Eiffel{
     font-family: sans-serif;
+    border-color: none none chocolate none ;
+    border-width: none none none 2px;   
+    border-style: none none none solid;
 }

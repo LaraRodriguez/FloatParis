@@ -5,9 +5,8 @@ body{
 }
 div{
   overflow: auto;
-  border-color: none none none chocolate;
-  border-width: none none none 2px;   
-  border-style: none none none solid;
+  
+  font-size: smaller;
 }
 img{
     margin: 15px;
@@ -16,40 +15,39 @@ img{
 }
 h1{
     font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline solid sienna 4px;
 }
 h3{
     font-family: sans-serif;
     font-size: small;
+    text-decoration: underline solid sienna 4px;
 }
-
+hr{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
 #Paris{
-    float: hidden;
+    margin: 20px;
     font-family: sans-serif;
-    border-color: none none chocolate none;
-    border-width: none none 100px none;   
-    border-style: none none solid none;
 }
-}
-#Notre-dame{
 
+#Notre-dame{
+    margin: 20px;
     font-family: sans-serif;
-    border-color: none none chocolate none;
-    border-width: none none 100px none;   
-    border-style: none none solid none;
-}
+   
 }
 #Louvre{
+    margin: 20px;
     font-family: sans-serif;
-    border-color: none none chocolate none;
-    border-width: none none 100px none;   
-    border-style: none none solid none;
+    
 }
-}
+
 #Eiffel{
-    font-family: sans-serif;
-    border-color: none none chocolate none ;
-    border-width: none none 100px none;   
-    border-style: none none solid none;
+    margin: 20px;
+    font-family: sans-serif;  
+  
 }
 #img1{
     float:left;
